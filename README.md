@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @curioussandra
 - 👀 I’m a full stack Java Script Developer
 - 🌱 I’m currently working on a calculator that helps calculate the [Vedic Yuga Cycles](https://popularvedicscience.com/).
-- 
+
 
 <!---
 curioussandra/curioussandra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
