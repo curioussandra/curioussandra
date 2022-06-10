@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @curioussandra
 - 👀 I’m a full stack Java Script Developer
-- 🌱 I’m currently working on a calculator that helps calculate the [Vedic Yuga Cycles](https://popularvedicscience.com/).
+- 🌱 I’m currently working on a calculator that helps calculate the [Vedic Yuga Cycles](https://popularvedicscience.com/history/yugas/4-yugas/).
 
 
 <!---
